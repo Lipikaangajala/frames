@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Two frames</title>
+<style type="text/css">
+
+body{background-color:yellow}
+</style>
+</head>
+<body>
+<h3>This is the main document containing below given inline frames<h3>
+<iframes src="frame_a" height=200 width=200></iframes>
+<iframes src="frame_b" height=200 width=200></iframes>
+</body>
+</head>
